@@ -55,6 +55,9 @@ body {
 	padding: 15px;
 	font-size: 20px;
 }
+#blank-space {
+	visibility: collapse;
+}
 .submitting {
 	background-color: #4aaaa5;
 	padding: 10px 25px 10px 25px;
